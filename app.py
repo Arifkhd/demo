@@ -3,5 +3,6 @@ if person=='yes':
     print('I will give something')
     print('How are you')
     print('come fast')
+    print('hello how are you')
 else:
     print("bye")
